@@ -18,3 +18,5 @@ to see all the files you changed
 git add filename
 ```
 to let git track it
+
+New Changes
